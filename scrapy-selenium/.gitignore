@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+*.json
+page_source_*.html
+*.db
+.env
