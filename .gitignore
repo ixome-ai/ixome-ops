@@ -1,3 +1,4 @@
+# /home/vincent/ixome/ixome-ops/.gitignore
 # Python caches and temps
 __pycache__/
 *.pyc
@@ -73,7 +74,3 @@ items.json
 *.key
 *.pem
 credentials.json
-# Ixome ops-specific
-security/
-__pycache__/
-*.pyc
